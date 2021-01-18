@@ -45,9 +45,10 @@
 		<meta id="collection-1" property="belongs-to-collection">Henry VI</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">3</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Henry VI is overthrown and Edward Plantagenet becomes the new King of England.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Long Description.&lt;/p&gt;
+			&lt;p&gt;The first battle of St. Alban’s is over and the White Rose faction is victorious. They have captured Henry VI and, after threatening him with violence, secured the king’s promise of passing the crown to Edward Plantagenet after his death. Not willing to accept her son’s disinheritance, Queen Margaret decides to take matters into her own hands and declares war on the Yorkists.&lt;/p&gt;
+			&lt;p&gt;Wakefield castle, home of the Duke of York and his sons, is attacked by Margaret’s forces and successfully capture York. The queen and Clifford taunt York and eventually stab him to death. York’s sons Edward and Richard receive news of their father’s death, vow to get their revenge, and plan to place Edward on the English throne.&lt;/p&gt;
 			&lt;p&gt;This Standard Ebooks production is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
