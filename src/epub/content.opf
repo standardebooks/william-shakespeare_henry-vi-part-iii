@@ -30,6 +30,8 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Henry VI, Part III</dc:title>
 		<meta property="file-as" refines="#title">Henry VI, Part III</meta>
+		<meta property="se:alternate-title" refines="#title">Henry the 6th, Part 3</meta>
+		<meta property="se:alternate-title" refines="#title">Henry the Sixth, Part Three</meta>
 		<dc:subject id="subject-1">Henry VI, King of England, 1421-1471 -- Drama</dc:subject>
 		<dc:subject id="subject-2">Great Britain -- Kings and rulers -- Drama</dc:subject>
 		<dc:subject id="subject-3">Historical drama</dc:subject>
@@ -43,9 +45,12 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">Drama</meta>
-		<meta id="collection-1" property="belongs-to-collection">Henry VI</meta>
+		<meta id="collection-1" property="belongs-to-collection">The Henriad</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<meta property="group-position" refines="#collection-1">3</meta>
+		<meta property="group-position" refines="#collection-1">7</meta>
+		<meta id="collection-2" property="belongs-to-collection">Shakespeare’s First Tetralogy</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
+		<meta property="group-position" refines="#collection-2">3</meta>
 		<dc:description id="description">Henry VI is overthrown and Edward Plantagenet becomes the new King of England.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;The first battle of St. Alban’s is over and the White Rose faction is victorious. They have captured Henry VI and, after having threatened him with violence, secured the king’s promise of passing the crown to Edward Plantagenet after his death. Not willing to accept her son’s disinheritance, Queen Margaret decides to take matters into her own hands and declares war on the Yorkists.&lt;/p&gt;
