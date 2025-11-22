@@ -29,8 +29,8 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Henry VI, Part III</dc:title>
 		<meta property="file-as" refines="#title">Henry VI, Part III</meta>
-		<meta property="dcterms:alternate" refines="#title">Henry the 6th, Part 3</meta>
-		<meta property="dcterms:alternate" refines="#title">Henry the Sixth, Part Three</meta>
+		<meta property="dcterms:alternative" refines="#title">Henry the 6th, Part 3</meta>
+		<meta property="dcterms:alternative" refines="#title">Henry the Sixth, Part Three</meta>
 		<dc:subject id="subject-1">Henry VI, King of England, 1421-1471 -- Drama</dc:subject>
 		<dc:subject id="subject-2">Great Britain -- Kings and rulers -- Drama</dc:subject>
 		<dc:subject id="subject-3">Historical drama</dc:subject>
