@@ -53,7 +53,7 @@
 		<meta property="group-position" refines="#collection-2">3</meta>
 		<meta id="collection-3" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-3">set</meta>
-		<dc:abstract>Henry VI is overthrown and Edward Plantagenet becomes the new King of England.</dc:abstract>
+		<meta property="schema:abstract">Henry VI is overthrown and Edward Plantagenet becomes the new King of England.</meta>
 		<dc:description>
 			&lt;p&gt;The first battle of St. Alban’s is over and the White Rose faction is victorious. They have captured Henry VI and, after having threatened him with violence, secured the king’s promise of passing the crown to Edward Plantagenet after his death. Not willing to accept her son’s disinheritance, Queen Margaret decides to take matters into her own hands and declares war on the Yorkists.&lt;/p&gt;
 			&lt;p&gt;Margaret’s forces invade Wakefield Castle, home to the Duke of York and his sons, and successfully capture York. The queen and Clifford taunt York and eventually stab him to death. York’s sons Edward and Richard receive news of their father’s death, vow to get their revenge, and plan to place Edward on the English throne.&lt;/p&gt;
